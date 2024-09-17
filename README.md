@@ -1,4 +1,5 @@
 From the project directory in your terminal
+
 Ensure you have a folder/directory called build.
 
 Compile with:
