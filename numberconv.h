@@ -1,0 +1,14 @@
+char * string_reverse(char* str, int length);
+int is_hex_digit(char c);
+int is_oct_digit(char c);
+int is_bin_digit(char c);
+int is_digit(char c);
+int dec_to_integer(char *str);
+int bin_to_int(char str[]);
+int dec_to_int(char str[]);
+int hex_to_int(char str[]);
+int oct_to_int(char str[]);
+void int_to_dec(int number, char str[]);
+void int_to_bin(int number, char str[]);
+void int_to_hex(int number, char str[]);
+void int_to_oct(int number, char str[]);
