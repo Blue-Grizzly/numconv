@@ -1,13 +1,14 @@
-From the project directory in your terminal
-Compile with:
-```sh
-gcc -o ./build/numconv num_ui.c numconv1.c
+to run cd into the version you want to run 
 ```
-then run with:
-```sh
-./build/numconv
+cd v2
 ```
-
-
+or 
+```
+cd v1
+```
+and execute:
+```
+bash build_and_run.bash
+```
 
 https://imgs.xkcd.com/comics/goto.png
